@@ -1,0 +1,10 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.testFill {
+  border: 2px solid black;
+  width: 49%;
+  height: 50px;
+}
